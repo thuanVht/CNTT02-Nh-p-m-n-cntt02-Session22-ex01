@@ -6,6 +6,7 @@
 | `site:ptit.edu.vn` | Chỉ tìm trong máy chủ chính thức của trường, nên không lẫn web quảng cáo hay web nạp thẻ |
 | `filetype:pdf` | Chỉ trả về tệp PDF, không trả về trang bài viết |
 | `"Nhập môn Công nghệ Thông tin"` | Dấu ngoặc kép buộc Google khớp đúng nguyên cụm từ, không tách rời từng chữ |
+
 "Nhập môn Công nghệ Thông tin"	Dấu ngoặc kép buộc Google khớp đúng nguyên cụm từ, không tách rời từng chữ
  Sử dụng toán tử trừ **-** để loại bỏ ít nhất 2 trang web "rác" thường xuyên xuất hiện trong kết quả tìm kiếm.
 "site:ptit.edu.vn filetype:pdf Nhập môn Công nghệ Thông tin -site:scribd.com -site:123docz.net -site:tailieu.vn"
