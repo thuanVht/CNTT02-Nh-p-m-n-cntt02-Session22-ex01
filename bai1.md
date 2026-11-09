@@ -2,7 +2,7 @@ Bài 1 : Tìm kiếm tài liệu học tập chính thống bằng Google
 - Viết một chuỗi truy vấn (Query) sử dụng toán tử **filetype:**, **site:** và dấu ngoặc kép " " để tìm trực tiếp tệp tin PDF trên máy chủ của trường.
 "site:ptit.edu.vn filetype:pdf Nhập môn Công nghệ Thông tin"
 | Thành phần | Tác dụng |
-|---|---|
+|=---|=---|
 | `site:ptit.edu.vn` | Chỉ tìm trong máy chủ chính thức của trường, nên không lẫn web quảng cáo hay web nạp thẻ |
 | `filetype:pdf` | Chỉ trả về tệp PDF, không trả về trang bài viết |
 | `"Nhập môn Công nghệ Thông tin"` | Dấu ngoặc kép buộc Google khớp đúng nguyên cụm từ, không tách rời từng chữ |
